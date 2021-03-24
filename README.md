@@ -28,8 +28,6 @@
   - The name of database software you use
   - The way how to run the program you create
   - What are the main aspects that you took into consideration (or compromised)
-3. After all, run `./archive.sh`. This command creates `quipper-devops-test.zip` ZIP file from HEAD revision of current Git branch.
-4. Send ZIP archive file to us as an attachment of email.
 
 ## Task 2: Architecture Discussion
 
